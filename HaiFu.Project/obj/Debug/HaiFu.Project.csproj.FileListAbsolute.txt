@@ -1,0 +1,13 @@
+c:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.csprojResolveAssemblyReference.cache
+c:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Project\bin\Debug\HaiFu.Project.dll
+c:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Project\bin\Debug\HaiFu.Project.pdb
+c:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.dll
+c:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.pdb
+D:\我的坚果云\HaiFu\HaiFu.Project\bin\Debug\HaiFu.Project.dll
+D:\我的坚果云\HaiFu\HaiFu.Project\bin\Debug\HaiFu.Project.pdb
+D:\我的坚果云\HaiFu\Bin\HaiFu.Project.dll
+D:\我的坚果云\HaiFu\Bin\HaiFu.Project.pdb
+D:\我的坚果云\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.csproj.CoreCompileInputs.cache
+D:\我的坚果云\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.dll
+D:\我的坚果云\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.pdb
+D:\我的坚果云\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.csprojResolveAssemblyReference.cache

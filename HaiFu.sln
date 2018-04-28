@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiFu", "HaiFu\HaiFu.csproj", "{F487228A-F2D0-48AF-9B96-2D67ECA2F2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiFu.Project", "HaiFu.Project\HaiFu.Project.csproj", "{E6085448-A00E-455C-AF78-E62AC25574AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiFuClient", "HaiFuClient\HaiFuClient.csproj", "{19B23460-822F-4739-9063-916957DC3907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiFu.Protocol", "HaiFu.Protocol\HaiFu.Protocol.csproj", "{CFFB7C61-CF36-4EFC-B3E0-29EADCC1BFD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F487228A-F2D0-48AF-9B96-2D67ECA2F2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F487228A-F2D0-48AF-9B96-2D67ECA2F2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F487228A-F2D0-48AF-9B96-2D67ECA2F2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F487228A-F2D0-48AF-9B96-2D67ECA2F2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6085448-A00E-455C-AF78-E62AC25574AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6085448-A00E-455C-AF78-E62AC25574AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6085448-A00E-455C-AF78-E62AC25574AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6085448-A00E-455C-AF78-E62AC25574AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B23460-822F-4739-9063-916957DC3907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B23460-822F-4739-9063-916957DC3907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B23460-822F-4739-9063-916957DC3907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B23460-822F-4739-9063-916957DC3907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFB7C61-CF36-4EFC-B3E0-29EADCC1BFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFB7C61-CF36-4EFC-B3E0-29EADCC1BFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFB7C61-CF36-4EFC-B3E0-29EADCC1BFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFB7C61-CF36-4EFC-B3E0-29EADCC1BFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

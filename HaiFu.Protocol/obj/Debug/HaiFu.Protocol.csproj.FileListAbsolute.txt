@@ -1,0 +1,15 @@
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Protocol\bin\Debug\HaiFu.Protocol.dll
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Protocol\bin\Debug\HaiFu.Protocol.pdb
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.dll
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.pdb
+D:\我的坚果云\HaiFu\HaiFu.Protocol\bin\Debug\HaiFu.Protocol.dll
+D:\我的坚果云\HaiFu\HaiFu.Protocol\bin\Debug\HaiFu.Protocol.pdb
+D:\我的坚果云\HaiFu\HaiFu.Protocol\bin\Debug\Newtonsoft.Json.dll
+D:\我的坚果云\HaiFu\HaiFu.Protocol\bin\Debug\Newtonsoft.Json.xml
+D:\我的坚果云\HaiFu\Bin\HaiFu.Protocol.dll
+D:\我的坚果云\HaiFu\Bin\HaiFu.Protocol.pdb
+D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.csproj.CoreCompileInputs.cache
+D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.csproj.CopyComplete
+D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.dll
+D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.pdb
+D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.csprojResolveAssemblyReference.cache

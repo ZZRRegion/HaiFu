@@ -1,0 +1,29 @@
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\bin\Debug\HaiFuClient.exe.config
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\bin\Debug\HaiFuClient.exe
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\bin\Debug\HaiFuClient.pdb
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csprojResolveAssemblyReference.cache
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.Properties.Resources.resources
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.GenerateResource.Cache
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.exe
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.pdb
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.FrmMain.resources
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\bin\Debug\HaiFu.Protocol.dll
+C:\Users\JaLyn\documents\visual studio 2015\Projects\HaiFu\HaiFuClient\bin\Debug\HaiFu.Protocol.pdb
+D:\我的坚果云\HaiFu\HaiFuClient\bin\Debug\HaiFuClient.exe.config
+D:\我的坚果云\HaiFu\HaiFuClient\bin\Debug\HaiFuClient.exe
+D:\我的坚果云\HaiFu\HaiFuClient\bin\Debug\HaiFuClient.pdb
+D:\我的坚果云\HaiFu\HaiFuClient\bin\Debug\HaiFu.Protocol.dll
+D:\我的坚果云\HaiFu\HaiFuClient\bin\Debug\HaiFu.Protocol.pdb
+D:\我的坚果云\HaiFu\HaiFuClient\bin\Debug\Newtonsoft.Json.dll
+D:\我的坚果云\HaiFu\HaiFuClient\bin\Debug\Newtonsoft.Json.xml
+D:\我的坚果云\HaiFu\Bin\HaiFuClient.exe.config
+D:\我的坚果云\HaiFu\Bin\HaiFuClient.exe
+D:\我的坚果云\HaiFu\Bin\HaiFuClient.pdb
+D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csprojResolveAssemblyReference.cache
+D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.FrmMain.resources
+D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.Properties.Resources.resources
+D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.GenerateResource.cache
+D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.CoreCompileInputs.cache
+D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.CopyComplete
+D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.exe
+D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.pdb
