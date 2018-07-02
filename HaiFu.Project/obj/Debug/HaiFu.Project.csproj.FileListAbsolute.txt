@@ -11,3 +11,9 @@ D:\我的坚果云\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.csproj.CoreCompil
 D:\我的坚果云\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.dll
 D:\我的坚果云\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.pdb
 D:\我的坚果云\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.csprojResolveAssemblyReference.cache
+E:\test11\HaiFu\Bin\HaiFu.Project.dll
+E:\test11\HaiFu\Bin\HaiFu.Project.pdb
+E:\test11\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.csprojAssemblyReference.cache
+E:\test11\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.csproj.CoreCompileInputs.cache
+E:\test11\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.dll
+E:\test11\HaiFu\HaiFu.Project\obj\Debug\HaiFu.Project.pdb

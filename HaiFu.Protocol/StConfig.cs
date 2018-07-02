@@ -11,6 +11,9 @@ namespace HaiFu.Protocol
 {
     public static class StConfig
     {
+        /// <summary>
+        /// 配置文件
+        /// </summary>
         private static string ConfigFileName => "config.json";
         private static void Write(string key, string value)
         {

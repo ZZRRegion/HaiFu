@@ -13,3 +13,10 @@ D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.csproj.CopyComp
 D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.dll
 D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.pdb
 D:\我的坚果云\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.csprojResolveAssemblyReference.cache
+E:\test11\HaiFu\Bin\HaiFu.Protocol.dll
+E:\test11\HaiFu\Bin\HaiFu.Protocol.pdb
+E:\test11\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.csprojAssemblyReference.cache
+E:\test11\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.csproj.CoreCompileInputs.cache
+E:\test11\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.csproj.CopyComplete
+E:\test11\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.dll
+E:\test11\HaiFu\HaiFu.Protocol\obj\Debug\HaiFu.Protocol.pdb

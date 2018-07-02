@@ -27,3 +27,14 @@ D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.CoreCompileInp
 D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.CopyComplete
 D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.exe
 D:\我的坚果云\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.pdb
+E:\test11\HaiFu\Bin\HaiFuClient.exe.config
+E:\test11\HaiFu\Bin\HaiFuClient.exe
+E:\test11\HaiFu\Bin\HaiFuClient.pdb
+E:\test11\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csprojAssemblyReference.cache
+E:\test11\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.FrmMain.resources
+E:\test11\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.Properties.Resources.resources
+E:\test11\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.GenerateResource.cache
+E:\test11\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.CoreCompileInputs.cache
+E:\test11\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.csproj.CopyComplete
+E:\test11\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.exe
+E:\test11\HaiFu\HaiFuClient\obj\Debug\HaiFuClient.pdb
